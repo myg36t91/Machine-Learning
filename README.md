@@ -1,6 +1,15 @@
 # Machine-Learning
 Basic and Applications. <p>
 This repository will cover the assignments of the courses taught by Professor 李宏毅 (Hung-yi Lee) of National Taiwan University in 2022 Spring.
+  
+> * Python 3.6.8
+> * Pytorch 1.6.0 (CPU)
+> * Torchvision 0.7.0 (CPU)
+> * numpy
+> * Opencv
+> * Matplotlib
+> * Pandas
+  
 - HW1	Regression
   <!--
 - HW2	Classification
