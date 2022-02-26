@@ -1,6 +1,6 @@
 # Machine-Learning
 Basic and Applications. <p>
-This repository will cover the assignments of the courses taught by Professor Li Hongyi of National Taiwan University in 2022 Spring.
+This repository will cover the assignments of the courses taught by Professor 李宏毅 (Hung-yi Lee) of National Taiwan University in 2022 Spring.
 - HW1	Regression
   <!--
 - HW2	Classification
