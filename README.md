@@ -5,7 +5,7 @@ This repository will cover the assignments of the courses taught by Professor æ
 > * Python 3.6.8
 > * Pytorch 1.6.0 (CPU)
 > * Torchvision 0.7.0 (CPU)
-> * numpy
+> * Numpy
 > * Opencv
 > * Matplotlib
 > * Pandas
