@@ -11,8 +11,9 @@ This repository will cover the assignments of the courses taught by Professor æ
 > * Pandas
   
 - HW1	Regression
+- HW2	Multilayer Perceptron
+  
   <!--
-- HW2	Classification
 - HW3	CNN
 - HW4	Self-Attention
 - HW5	Transformer
