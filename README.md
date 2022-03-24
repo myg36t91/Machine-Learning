@@ -13,9 +13,9 @@ This repository will cover the assignments of the courses taught by Professor Êù
 - HW1	Regression
 - HW2	Multilayer Perceptron
 - HW3	CNN
+- HW4 Self-Attention
   
  <!--
-- HW4	Self-Attention
 - HW5	Transformer
 - HW6	GAN
 - HW7	BERT
