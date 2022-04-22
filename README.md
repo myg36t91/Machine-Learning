@@ -12,8 +12,8 @@ This repository will cover the assignments of the courses taught by Professor Êù
   
 - HW1	Regression
 - HW2	Multilayer Perceptron
-- HW3	CNN
-- HW4 Self-Attention
+- HW3	CNN Cafir-10
+- HW4 CNN Butterfly Dataset
 - HW5	RNN
   
  <!--
