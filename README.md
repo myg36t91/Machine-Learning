@@ -14,9 +14,10 @@ This repository will cover the assignments of the courses taught by Professor Êù
 - HW2	Multilayer Perceptron
 - HW3	CNN
 - HW4 Self-Attention
-- Mid-Project
+- HW5	RNN
+  
  <!--
-- HW5	Transformer
+
 - HW6	GAN
 - HW7	BERT
 - HW8	Anomaly Detection
