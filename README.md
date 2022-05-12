@@ -15,10 +15,10 @@ This repository will cover the assignments of the courses taught by Professor Êù
 - HW3	CNN Cafir-10
 - HW4 CNN Butterfly Dataset
 - HW5	RNN
+- HW6 LSTM
+- HW7 GAN
   
  <!--
-
-- HW6	GAN
 - HW7	BERT
 - HW8	Anomaly Detection
 - HW9	Explainable AI
