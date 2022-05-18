@@ -10,13 +10,14 @@ This repository will cover the assignments of the courses taught by Professor æ
 > * Matplotlib
 > * Pandas
   
-- HW1	Regression
-- HW2	Multilayer Perceptron
-- HW3	CNN Cafir-10
-- HW4 CNN Butterfly Dataset
-- HW5	RNN
-- HW6 LSTM
-- HW7 GAN
+- Hw 1 Regression
+- Hw 2 Multilayer Perceptron
+- Hw 3 CNN Cafir-10
+- Hw 4 CNN Butterfly Dataset
+- Hw 5 RNN
+- Hw 6 LSTM
+- Hw 7 GAN
+- Hw 8 cDCGAN
   
  <!--
 - HW7	BERT
