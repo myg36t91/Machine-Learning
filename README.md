@@ -19,5 +19,6 @@ This repository will cover the assignments of the courses taught by Professor Êù
 - Hw 7 GAN
 - Hw 8 cDCGAN
 - Hw 9 cycleGAN
+- Mid Project
 - Final Project
   
