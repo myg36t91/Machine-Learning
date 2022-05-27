@@ -18,15 +18,6 @@ This repository will cover the assignments of the courses taught by Professor Êù
 - Hw 6 LSTM
 - Hw 7 GAN
 - Hw 8 cDCGAN
+- Hw 9 cycleGAN
+- Final Project
   
- <!--
-- HW7	BERT
-- HW8	Anomaly Detection
-- HW9	Explainable AI
-- HW10	Attack
-- HW11	Adaptation
-- HW12	RL
-- HW13	Compression
-- HW14	Life-Long Learning
-- HW15	Meta Learning
--->
